@@ -1,0 +1,20 @@
+{
+  "name": "discord-troll",
+  "version": "1.0.0",
+  "description": "Nothing",
+  "main": "main.js",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "discord.js": "^13.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stane034/discord-troller"
+  },
+  "author": "fejkstane#1909",
+  "license": "ISC"
+}
